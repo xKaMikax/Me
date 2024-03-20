@@ -1,0 +1,15 @@
+.test{
+    background-color: #1c1c1c;
+    height: 50px;
+    width: 50px;
+    margin: 15px;
+    color: white;
+
+}
+
+
+.flex-container{
+    background-color: cornflowerblue;
+    display: flex;
+    flex-direction: row-reverse;
+}
