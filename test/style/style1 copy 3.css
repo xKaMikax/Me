@@ -1,0 +1,26 @@
+.test{
+    background-color: #1c1c1c;
+    height: 50px;
+    width: 50px;
+    margin: 15px;
+    color: white;
+    font-size: xx-large;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s;
+}
+.test:hover{
+    color: #1c1c1c;
+    background-color: white;
+}
+
+
+.flex-container{
+    background-color: cornflowerblue;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    justify-content: space-between;    
+}
